@@ -17,15 +17,16 @@ function updateCountdown() {
     document.getElementById("countdown").innerHTML = "EXPIRED";
   }
 }
-
 function formatTime(time) {
   return time < 10 ? "0" + time : time;
 }
-
-// Function to update the countdown with a new date
 function updateCountdownDate(newDate) {
   countDownDate = new Date(newDate).getTime();
 }
-
-// Example usage to change the countdown date to May 15, 2024
 updateCountdownDate("May 15, 2025 00:00:00");
+
+
+
+
+
+

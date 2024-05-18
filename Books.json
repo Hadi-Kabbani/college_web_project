@@ -1,0 +1,864 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 835,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "mFT_CgAAQBAJ",
+      "etag": "8Q8wsrL4Mfc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mFT_CgAAQBAJ",
+      "volumeInfo": {
+        "title": "Search Terms: Alpha",
+        "authors": [
+          "Travis Hill"
+        ],
+        "publisher": "Travis Hill",
+        "description": "College sophomore Tyler Gallagher loves computers, video games, and Thanksgiving Break. He's timed the arrival of his computer components with the holiday vacation from school to blast aliens and enemy soldiers alike on his brand new, high-end gaming computer. When the parts arrive, it soon becomes apparent that they aren't what he ordered from TechTerritory. Thinking he's the butt of a practical joke, Tyler plays along, and builds the computer with the obviously fake components. His annoyance turns to shock when the computer powers on. His shock turns to a mix of disbelief and wonder when he learns the strange \"quantum\" computer can pull web pages from the near future. Disbelief and wonder soon become fear and uncertainty when he discovers the future might not be so bright. \"Search Terms: Alpha\" is the first half of a new time travel thriller. 52,000 word novel Adult themes / language / mild sexual content",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 218,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mFT_CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mFT_CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.lb/books?id=mFT_CgAAQBAJ&pg=PT61&dq=search+terms&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.lb/books?id=mFT_CgAAQBAJ&dq=search+terms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Search_Terms_Alpha.html?hl=&id=mFT_CgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "LB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "LB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mFT_CgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003esearch\u003c/b\u003e for instructions after downloading Delta-9 and Star Evolution. A window opened, and it looked almost like a ... \u003cb\u003eword\u003c/b\u003e “Qwerry.” I assumed it was a play on the \u003cb\u003eword\u003c/b\u003e “\u003cb\u003equery\u003c/b\u003e” and gave it a mental touche. What the hell, I told myself&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "frL0EpijeEMC",
+      "etag": "W6zW/YJEDyo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/frL0EpijeEMC",
+      "volumeInfo": {
+        "title": "Web Search: Public Searching of the Web",
+        "authors": [
+          "Amanda Spink",
+          "Bernard J. Jansen"
+        ],
+        "publisher": "Springer Science & Business Media",
+        "publishedDate": "2006-02-21",
+        "description": "This book brings together results from the Web search studies we conducted from 1997 through 2004. The aim of our studies has been twofold: to examine how the public at large searches the Web and to highlight trends in public Web searching. The eight-year period from 1997 to 2004 saw the beginnings and maturity of public Web searching. Commercial Web search engines have come and gone, or endured, through the fall of the dot.com companies. We saw the rise and, in some cases, the demise of several high profile, publicly available Web search engines. The study of the Web search is an exciting and important area of interdisciplinary research. Our book provides a valuable insight into the growth and development of human interaction with Web search engines. In this book, our focus is on the human aspect of the interaction between user and Web search engine. We do not investigate the Web search engines themselves or their constantly changing interfaces, algorithms and features. We focus on exploring the cognitive and user aspects of public Web searching in the aggregate. We use a variety of quantitative and qualitative methods within the overall methodology known as transaction log analysis.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781402022692"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1402022697"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 205,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=frL0EpijeEMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=frL0EpijeEMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.lb/books?id=frL0EpijeEMC&printsec=frontcover&dq=search+terms&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=frL0EpijeEMC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=frL0EpijeEMC"
+      },
+      "saleInfo": {
+        "country": "LB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 98.51,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 98.51,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=frL0EpijeEMC&rdid=book-frL0EpijeEMC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 98510000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 98510000,
+              "currencyCode": "USD"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "LB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.lb/books/download/Web_Search_Public_Searching_of_the_Web-sample-pdf.acsm?id=frL0EpijeEMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=frL0EpijeEMC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book brings together results from the Web search studies we conducted from 1997 through 2004."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SNAjMMp3H5UC",
+      "etag": "Bxtu302K2ts",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SNAjMMp3H5UC",
+      "volumeInfo": {
+        "title": "Keyword Intelligence",
+        "subtitle": "Keyword Research for Search, Social, and Beyond",
+        "authors": [
+          "Ron Jones"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2011-10-19",
+        "description": "A unique book on the art and science of keyword research Keyword research can make or break a marketing campaign, an optimization strategy, and pay-per-click ad campaigns. Written by a keyword research expert, this essential resource drills home the importance of targeting the right keywords or phrases in order to get traffic from search engines and social media channels. Author Ron Jones imparts his wisdom and experience for determining which keywords will work based on a searcher's intent and he shows you how to research social, mobile, and video marketing tools that can ultimately become the foundation of a marketing campaign. Boasts detailed how-to information from one of the world's leading keyword research experts Helps you learn how to craft a successful keyword campaign and capture a coveted spot on the first page of a results page Pares down the essential information you need to know to use available tools to get keyword suggestions, forecast web site traffic, perform competitive research, and analyze results Walks you through how to best apply keywords to SEO and PPC campaigns as well as gain visibility with mobile marketing and integrate with traditional marketing efforts Features case studies, examples, tutorials, tips, and previously undocumented techniques No matter your level of experience working with keywords, Keyword Intelligence is the ultimate guide for learning how to best conduct keyword research and craft winning marketing campaigns.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781118216910"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1118216911"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 357,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.8.7.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SNAjMMp3H5UC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SNAjMMp3H5UC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.lb/books?id=SNAjMMp3H5UC&printsec=frontcover&dq=search+terms&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.lb/books?id=SNAjMMp3H5UC&dq=search+terms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Keyword_Intelligence.html?hl=&id=SNAjMMp3H5UC"
+      },
+      "saleInfo": {
+        "country": "LB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "LB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.lb/books/download/Keyword_Intelligence-sample-epub.acsm?id=SNAjMMp3H5UC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.lb/books/download/Keyword_Intelligence-sample-pdf.acsm?id=SNAjMMp3H5UC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SNAjMMp3H5UC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This unique, detailed guide to every aspect of keyword research also features case studies, examples, tutorials, tips, and previously undocumented techniques drawn from renowned keyword research expert Ron Jones&#39;s extensive professional ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LD9tCQAAQBAJ",
+      "etag": "KDI4heFLSEo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LD9tCQAAQBAJ",
+      "volumeInfo": {
+        "title": "Advances in Information Retrieval",
+        "subtitle": "24th BCS-IRSG European Colloquium on IR Research Glasgow, UK, March 25-27, 2002 Proceedings",
+        "authors": [
+          "Fabio Crestani",
+          "Mark Girolami",
+          "C.J.van Rijsbergen"
+        ],
+        "publisher": "Springer",
+        "publishedDate": "2003-07-31",
+        "description": "The annual colloquium on information retrieval research provides an opportunity for both new and established researchers to present papers describing work in progress or ?nal results. This colloquium was established by the BCS IRSG(B- tish Computer Society Information Retrieval Specialist Group), and named the Annual Colloquium on Information Retrieval Research. Recently, the location of the colloquium has alternated between the United Kingdom and continental Europe. To re?ect the growing European orientation of the event, the colloquium was renamed “European Annual Colloquium on Information Retrieval Research” from 2001. Since the inception of the colloquium in 1979 the event has been hosted in the city of Glasgow on four separate occasions. However, this was the ?rst time that the organization of the colloquium had been jointly undertaken by three separate computer and information science departments; an indication of the collaborative nature and diversity of IR research within the universities of the West of Scotland. The organizers of ECIR 2002 saw a sharp increase in the number of go- quality submissions in answer to the call for papers over previous years and as such 52 submitted papers were each allocated 3 members of the program committee for double blind review of the manuscripts. A total of 23 papers were eventually selected for oral presentation at the colloquium in Glasgow which gave an acceptance rate of less than 45% and ensured a very high standard of the papers presented.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783540458869"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3540458867"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 366,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LD9tCQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LD9tCQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.lb/books?id=LD9tCQAAQBAJ&pg=PA112&dq=search+terms&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=LD9tCQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=LD9tCQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "LB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 54.72,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 54.72,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=LD9tCQAAQBAJ&rdid=book-LD9tCQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 54720000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 54720000,
+              "currencyCode": "USD"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "LB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.lb/books/download/Advances_in_Information_Retrieval-sample-pdf.acsm?id=LD9tCQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LD9tCQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... terms in AQE. Term extraction based on a proportionally high quantity of non-relevant documents generates inappropriate \u003cb\u003esearch terms\u003c/b\u003e impairing search effectiveness [28]. Blind AQE especially is more sensitive to this bias. IQE performs&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8_JHAwAAQBAJ",
+      "etag": "ujUHNZGF4i8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8_JHAwAAQBAJ",
+      "volumeInfo": {
+        "title": "Principles of Research Design and Drug Literature Evaluation",
+        "authors": [
+          "Rajender R. Aparasu",
+          "John P. Bentley"
+        ],
+        "publisher": "Jones & Bartlett Publishers",
+        "publishedDate": "2014-03-07",
+        "description": "Principles of Research Design and Drug Literature Evaluation is a unique resource that provides a balanced approach covering critical elements of clinical research, biostatistical principles, and scientific literature evaluation techniques for evidence-based medicine. This accessible text provides comprehensive course content that meets and exceeds the curriculum standards set by the Accreditation Council for Pharmacy Education (ACPE). Written by expert authors specializing in pharmacy practice and research, this valuable text will provide pharmacy students and practitioners with a thorough understanding of the principles and practices of drug literature evaluation with a strong grounding in research and biostatistical principles. Principles of Research Design and Drug Literature Evaluation is an ideal foundation for professional pharmacy students and a key resource for pharmacy residents, research fellows, practitioners, and clinical researchers. FEATURES * Chapter Pedagogy: Learning Objectives, Review Questions, References, and Online Resources * Instructor Resources: PowerPoint Presentations, Test Bank, and an Answer Key * Student Resources: a Navigate Companion Website, including Crossword Puzzles, Interactive Flash Cards, Interactive Glossary, Matching Questions, and Web Links From the Foreword: \"This book was designed to provide and encourage practitioner’s development and use of critical drug information evaluation skills through a deeper understanding of the foundational principles of study design and statistical methods. Because guidance on how a study’s limited findings should not be used is rare, practitioners must understand and evaluate for themselves the veracity and implications of the inherently limited primary literature findings they use as sources of drug information to make evidence-based decisions together with their patients. The editors organized the book into three supporting sections to meet their pedagogical goals and address practitioners’ needs in translating research into practice. Thanks to the editors, authors, and content of this book, you can now be more prepared than ever before for translating research into practice.\" L. Douglas Ried, PhD, FAPhA Editor-in-Chief Emeritus, Journal of the American Pharmacists Association Professor and Associate Dean for Academic Affairs, College of Pharmacy, University of Texas at Tyler, Tyler, Texas",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781449691318"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1449691315"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 400,
+        "printType": "BOOK",
+        "categories": [
+          "Medical"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8_JHAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8_JHAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.lb/books?id=8_JHAwAAQBAJ&pg=PA266&dq=search+terms&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.lb/books?id=8_JHAwAAQBAJ&dq=search+terms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Principles_of_Research_Design_and_Drug_L.html?hl=&id=8_JHAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "LB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "LB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.lb/books/download/Principles_of_Research_Design_and_Drug_L-sample-pdf.acsm?id=8_JHAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8_JHAwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003esearch\u003c/b\u003e by \u003cb\u003ekeywords\u003c/b\u003e. Many data- bases index literature according to controlled vocabularies. This system ensures that each piece of medical literature is indexed to a set of specific \u003cb\u003eterms\u003c/b\u003e so that when a \u003cb\u003esearch\u003c/b\u003e is completed, no relevant&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IVt2AwAAQBAJ",
+      "etag": "1LwUWkZmBF0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IVt2AwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Handbook of Social Work Research Methods",
+        "authors": [
+          "Bruce Thyer"
+        ],
+        "publisher": "SAGE Publications",
+        "publishedDate": "2009-10-15",
+        "description": "Click on the Supplements tab above for further details on the different versions of SPSS programs. The canonical Handbook is completely updated with more student-friendly features The Handbook of Social Work Research Methods is a cutting-edge volume that covers all the major topics that are relevant for Social Work Research methods. Edited by Bruce Thyer and containing contributions by leading authorities, this Handbook covers both qualitative and quantitative approaches as well as a section that delves into more general issues such as evidence based practice, ethics, gender, ethnicity, International Issues, integrating both approaches, and applying for grants. New to this Edition More content on qualitative methods and mixed methods More coverage of evidence-based practice More support to help students effectively use the Internet A companion Web site at www.sagepub.com/thyerhdbk2e containing a test bank and PowerPoint slides for instructors and relevant SAGE journal articles for students. This Handbook serves as a primary text in the methods courses in MSW programs and doctoral level programs. It can also be used as a reference and research design tool for anyone doing scholarly research in social work or human services.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781483351315"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1483351319"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 673,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IVt2AwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=IVt2AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.lb/books?id=IVt2AwAAQBAJ&pg=PA325&dq=search+terms&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.lb/books?id=IVt2AwAAQBAJ&dq=search+terms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Handbook_of_Social_Work_Research_Met.html?hl=&id=IVt2AwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "LB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "LB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.lb/books/download/The_Handbook_of_Social_Work_Research_Met-sample-pdf.acsm?id=IVt2AwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IVt2AwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Bruce Thyer. Search. Terms. and. Strings. \u003cb\u003eSearch terms\u003c/b\u003e are \u003cb\u003ekey words\u003c/b\u003e that are “looked up” in a database. These terms often refer to populations, interventions, comparisons, and outcomes of interest. Symbols (wild cards), such as * and &amp;,&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fvSbCgAAQBAJ",
+      "etag": "EUrNiZLD/qU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fvSbCgAAQBAJ",
+      "volumeInfo": {
+        "title": "How Software Works",
+        "subtitle": "The Magic Behind Encryption, CGI, Search Engines, and Other Everyday Technologies",
+        "authors": [
+          "V. Anton Spraul"
+        ],
+        "publisher": "No Starch Press",
+        "publishedDate": "2015-08-01",
+        "description": "We use software every day to perform all kinds of magical, powerful tasks. It's the force behind stunning CGI graphics, safe online shopping, and speedy Google searches. Software drives the modern world, but its inner workings remain a mystery to many. How Software Works explains how computers perform common-yet-amazing tasks that we take for granted every day. Inside you'll learn: –How data is encrypted –How passwords are used and protected –How computer graphics are created –How video is compressed for streaming and storage –How data is searched (and found) in huge databases –How programs can work together on the same problem without conflict –How data travels over the Internet How Software Works breaks down these processes with patient explanations and intuitive diagrams so that anyone can understand—no technical background is required, and you won't be reading through any code. In plain English, you'll examine the intricate logic behind the technologies you constantly use but never understood. If you've ever wondered what really goes on behind your computer screen, How Software Works will give you fascinating look into the software all around you.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781593276669"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1593276664"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 217,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fvSbCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fvSbCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.lb/books?id=fvSbCgAAQBAJ&pg=PA159&dq=search+terms&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.lb/books?id=fvSbCgAAQBAJ&dq=search+terms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/How_Software_Works.html?hl=&id=fvSbCgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "LB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "LB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fvSbCgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... search engine, how the index is used during a search is just as important. Good search results require attention to detail. For one thing, a search engine cannot merely use the supplied \u003cb\u003esearch terms\u003c/b\u003e as keywords. Consider the differences in&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CWL2BwAAQBAJ",
+      "etag": "fLxnQyKR8d4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CWL2BwAAQBAJ",
+      "volumeInfo": {
+        "title": "AI 2003: Advances in Artificial Intelligence",
+        "subtitle": "16th Australian Conference on AI, Perth, Australia, December 3-5, 2003, Proceedings",
+        "authors": [
+          "Tamas D. Gedeon",
+          "Lance C.C. Fung"
+        ],
+        "publisher": "Springer",
+        "publishedDate": "2003-12-01",
+        "description": "Consider the problem of a robot (algorithm, learning mechanism) moving along the real line attempting to locate a particular point ? . To assist the me- anism, we assume that it can communicate with an Environment (“Oracle”) which guides it with information regarding the direction in which it should go. If the Environment is deterministic the problem is the “Deterministic Point - cation Problem” which has been studied rather thoroughly [1]. In its pioneering version [1] the problem was presented in the setting that the Environment could charge the robot a cost which was proportional to the distance it was from the point sought for. The question of having multiple communicating robots locate a point on the line has also been studied [1, 2]. In the stochastic version of this problem, we consider the scenario when the learning mechanism attempts to locate a point in an interval with stochastic (i. e. , possibly erroneous) instead of deterministic responses from the environment. Thus when it should really be moving to the “right” it may be advised to move to the “left” and vice versa. Apart from the problem being of importance in its own right, the stoch- tic pointlocationproblemalsohas potentialapplications insolvingoptimization problems. Inmanyoptimizationsolutions–forexampleinimageprocessing,p- tern recognition and neural computing [5, 9, 11, 12, 14, 16, 19], the algorithm worksits wayfromits currentsolutionto the optimalsolutionbasedoninfor- tion that it currentlyhas. A crucialquestionis oneof determining the parameter whichtheoptimizationalgorithmshoulduse.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783540245810"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3540245812"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1078,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=CWL2BwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=CWL2BwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.lb/books?id=CWL2BwAAQBAJ&pg=PA66&dq=search+terms&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=CWL2BwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=CWL2BwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "LB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 98.51,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 98.51,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=CWL2BwAAQBAJ&rdid=book-CWL2BwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 98510000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 98510000,
+              "currencyCode": "USD"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "LB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.lb/books/download/AI_2003_Advances_in_Artificial_Intellige-sample-pdf.acsm?id=CWL2BwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CWL2BwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003esearch terms\u003c/b\u003e in different contexts promises substantial potential for improving the current state of web search engines. Furthermore, providing the user with possible additional \u003cb\u003esearch terms\u003c/b\u003e that would identify a particular word sense&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XDETBwAAQBAJ",
+      "etag": "DLiKV/0YKjw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XDETBwAAQBAJ",
+      "volumeInfo": {
+        "title": "Introduction to Research - E-Book",
+        "subtitle": "Understanding and Applying Multiple Strategies",
+        "authors": [
+          "Elizabeth DePoy",
+          "Laura N. Gitlin"
+        ],
+        "publisher": "Elsevier Health Sciences",
+        "publishedDate": "2015-03-06",
+        "description": "Bridge the gap between research and practice with Introduction to Research: Understanding and Applying Multiple Strategies, 5th Edition. This easy-to-read edition covers all the major research design strategies: qualitative, quantitative, naturalistic, experimental-type, and mixed method. And with the text’s up-to-date research information and references, you will have a solid foundation from which to critique and understand research designs and their applications to healthcare and human service settings. Case examples provide real-life snapshots of what it is like to participate in different types of research processes, identify research dilemmas relevant to chapter subjects, and alert you to problems you might encounter. Authors make the topics more accessible, so research becomes more relevant - and topics come to life. Covers experimental-type, naturalistic, and mixed method design strategies to improve your ability to compare, contrast, and integrate different methods. Presents complex information clearly in a highly readable, and easy-to-understand, manner. Includes detailed discussions of qualitative and quantitative methodologies, a unique and balanced focus that makes this text more comprehensive than others in its field. NEW! Up-to-date research methods, strategies, and references, like digital sources, visual methods, and geographical analysis, give you the latest information on research in diverse areas of health and human services.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780323261722"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0323261728"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 416,
+        "printType": "BOOK",
+        "categories": [
+          "Medical"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.6.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XDETBwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XDETBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.lb/books?id=XDETBwAAQBAJ&pg=PA74&dq=search+terms&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=XDETBwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=XDETBwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "LB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 58.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 58.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=XDETBwAAQBAJ&rdid=book-XDETBwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 58990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 58990000,
+              "currencyCode": "USD"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "LB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.lb/books/download/Introduction_to_Research_E_Book-sample-epub.acsm?id=XDETBwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.lb/books/download/Introduction_to_Research_E_Book-sample-pdf.acsm?id=XDETBwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XDETBwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eresearch\u003c/b\u003e can be maximized. You can obtain help from a reference librarian in formulating \u003cb\u003ekeywords\u003c/b\u003e, or the computer will help direct you to synonymous \u003cb\u003eterms\u003c/b\u003e, if the \u003cb\u003ewords\u003c/b\u003e you initially select are not used as classifiers. You can always&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jQ_SBQAAQBAJ",
+      "etag": "s487bPgHxGY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jQ_SBQAAQBAJ",
+      "volumeInfo": {
+        "title": "Computation for Humanity",
+        "subtitle": "Information Technology to Advance Society",
+        "authors": [
+          "Justyna Zander",
+          "Pieter J. Mosterman"
+        ],
+        "publisher": "CRC Press",
+        "publishedDate": "2018-10-03",
+        "description": "The exponential progress and accessibility of computing has vastly increased data flows and revolutionized the practice of science, engineering, and communication. Computing plays a critical role in advancing research across almost every scientific discipline. Computation for Humanity: Information Technology to Advance Society is a guide for the creation of services, products, and tools that facilitate, support, and enhance progress of humanity toward more sustainable life. This book: Provides a deep understanding of the practical applications of computation to solve human-machine problems Delivers insight into theoretical approaches in an accessible manner Provides a comprehensive overview of computational science and engineering applications in selected disciplines Crosses the boundaries between different domains and shows how they interrelate and complement one another Focuses on grand challenges and issues that matter for the future of humanity Shows different perspectives of computational thinking, understanding, and reasoning Provides a basis for scientific discoveries and enables adopting scientific theories and engineering practices from other disciplines Takes a step back to provide a human-related abstraction level that is not ultimately seen in pure technological elaborations/collections The editors provide a collection of numerous computation-related projects that form a foundation from which to cross-pollinate between different disciplines and further extensive collaboration. They present a clear and profound understanding of computing in today's world, and provide fundamental solutions to some of the most pertinent humanity-related problems.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781439883297"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1439883297"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 520,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jQ_SBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jQ_SBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.lb/books?id=jQ_SBQAAQBAJ&pg=PA220&dq=search+terms&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=jQ_SBQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=jQ_SBQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "LB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 95.11,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 95.11,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=jQ_SBQAAQBAJ&rdid=book-jQ_SBQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 95110000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 95110000,
+              "currencyCode": "USD"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "LB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.lb/books/download/Computation_for_Humanity-sample-pdf.acsm?id=jQ_SBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jQ_SBQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003esearch\u003c/b\u003e, and user interfaces that adapt to the current task. Note that within this work, we will focus on recommender ... \u003cb\u003eterms\u003c/b\u003e could improve the retrieval performance, as then more documents can be retrieved. Dependent on how much influence&nbsp;..."
+      }
+    }
+  ]
+}

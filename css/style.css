@@ -141,6 +141,7 @@ header .form-control {
 }
 .slider div {
   transition: var(--transition);
+  cursor: pointer;
 }
 .slider div:hover {
   background-color: var(--hover-color) !important;
@@ -180,6 +181,7 @@ header .form-control {
   width: 50px;
   height: 50px;
   border-radius: 50%;
+  cursor: pointer;
   border: 1px solid var(--main-color);
   transition: var(--transition);
 }
@@ -269,7 +271,7 @@ header .form-control {
   color: var(--highlight-color);
 }
 .biogs-col {
-  width:calc(50% - 10px);
+  width: calc(50% - 10px);
   object-fit: contain;
   position: relative;
 }
